@@ -19,7 +19,7 @@ El programa reúne tres retos en una aplicación de consola. A través de ellos,
 
 El repositorio también permite organizar el código fuente, registrar las modificaciones, documentar el proceso de desarrollo y conservar evidencias de ejecución. Como parte de las actividades complementarias, se propone configurar Git para enviar los cambios a GitHub y GitLab mediante una estrategia de doble destino (*Dual-Remote*).
 
-## Integrantes (Grupo N.º 03)
+## Integrantes (Grupo N.º 03) (AGREGAR EL/LOS INTEGRANTE/S!)
 
 - **Integrante 1:** [Apellido y nombre] — [Rol y tareas realizadas].
 - **Integrante 2:** [Apellido y nombre] — [Rol y tareas realizadas].
