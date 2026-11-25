@@ -21,7 +21,7 @@ El repositorio también permite organizar el código fuente, registrar las modif
 
 ## Integrantes (Grupo N.º 03)
 
-- **Integrante 1:** [Apellido y nombre] — [Rol y tareas realizadas].
+- **Integrante 1:** [Apellido y nombre] — [Rol y tareas realizadas].?????
 - **Integrante 2:** [Apellido y nombre] — [Rol y tareas realizadas].
 - **Integrante 3:** [Apellido y nombre] — [Rol y tareas realizadas].
 - **Integrante 4:** [Apellido y nombre] — [Rol y tareas realizadas].
